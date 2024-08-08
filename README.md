@@ -1,5 +1,7 @@
 # face-recognition-based-attendance-system  
+   I CREATED A FACE RECOGNITION ATTENDANCE MODEL BY USING FLASK APPLICATION
 
-Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+
+THE SNAPSHOT OF MY PROJECT IS AS FOLLOWS
 
 ![Face Recognition Based Attendance System](ss.png)
